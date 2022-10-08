@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54142309ee13fe5449e71561b6f599e4, type: 3}
+  m_Name: New Talk
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: 01
+    image: {fileID: 21300000, guid: 0bb3c50b91c698e428f916ba38d9034f, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u4F60\u597D\uFF01"
+    options: []
+  - ID: 02
+    image: {fileID: 0}
+    speakerName: "\u8393\u53EF"
+    text: "\u6211\u4E0D\u597D\u3002"
+    options: []
+  - ID: 03
+    image: {fileID: 21300000, guid: 0bb3c50b91c698e428f916ba38d9034f, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u4F60\u5988\u6B7B\u4E86\uFF01\u4F60\u5988\u6B7B\u4E86\uFF01\u4F60\u5988\u6B7B\u4E86\uFF01\u4F60\u5988\u6B7B\u4E86\uFF01\u4F60\u5988\u6B7B\u4E86\uFF01\u4F60\u5988\u6B7B\u4E86\uFF01\u4F60\u5988\u6B7B\u4E86\uFF01"
+    options: []

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54142309ee13fe5449e71561b6f599e4, type: 3}
+  m_Name: RaramoRepeat
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: 01
+    image: {fileID: 21300000, guid: 81860235c00a63a4fa9dd597ffe7bba5, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u600E\u4E48\uFF1F\u8FD9\u4E48\u5FEB\u5C31\u5FD8\u8BB0\u8EAB\u4F53\u52A8\u4F5C\u4E86\u5417\uFF1F"
+    isFromNpc: 1
+    isEndNpc: 1
+    eventType: 0
+    options: []
+  - ID: 02
+    image: {fileID: 21300000, guid: 78bb50e3fd4414446a9192ad76c2d271, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u6309\u9F20\u6807\u53F3\u952E/\u952E\u76D8J\u952E/\u624B\u67C4X\u952E\u53EF\u4EE5\u8FDB\u884C\u666E\u901A\u653B\u51FB\u3002\u952E\u76D8SPACE\u952E/\u624B\u67C4A\u952E\u53EF\u4EE5\u8DF3\u8DC3\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 03
+    image: {fileID: 21300000, guid: 78bb50e3fd4414446a9192ad76c2d271, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u6309\u952E\u76D8TAB\u952E/\u624B\u67C4BACK\u952E\u6253\u5F00\u80CC\u5305\u3002\u952E\u76D8ESC\u952E/\u624B\u67C4START\u952E\u6253\u5F00\u6682\u505C\u83DC\u5355\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 04
+    image: {fileID: 21300000, guid: 81860235c00a63a4fa9dd597ffe7bba5, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u5728\u5FEB\u6377\u680F\u88C5\u5907\u6709\u7269\u54C1\u7684\u65F6\u5019\uFF0C\u6309\u952E\u76D8R\u952E/\u624B\u67C4\u5341\u5B57\u4E0B\u952E\u53EF\u4EE5\u5FEB\u901F\u4F7F\u7528\u7269\u54C1\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 05
+    image: {fileID: 21300000, guid: 78bb50e3fd4414446a9192ad76c2d271, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u5FD8\u8BB0\u4E86\u518D\u6765\u95EE\u6211\u3002\u8BB0\u5F97\u53BB\u5C24\u91CC\u9547\u627E\u6211\u54E6\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
