@@ -14,3 +14,10 @@
 - FSM有限状态机敌人AI
 - 场景事件
 - Dotween实现丝滑UI弹出弹入
+## 一览
+试玩[link](https://www.bilibili.com/video/BV1AT411K7vC)
+![image1](https://s3.bmp.ovh/imgs/2024/03/03/02cd9ae35a1a144f.png)
+![image2](https://s3.bmp.ovh/imgs/2024/03/03/b1486d77300b9064.png)
+![image3](https://s3.bmp.ovh/imgs/2024/03/03/8066ab3c43b162c7.png)
+![image4](https://s3.bmp.ovh/imgs/2024/03/03/1c3a8494d0f1087b.png)
+![image5](https://s3.bmp.ovh/imgs/2024/03/03/7e528c373263fe47.png)
