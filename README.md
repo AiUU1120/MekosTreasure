@@ -1,5 +1,5 @@
 # MekosTreasure
-## 2022年制作的卷轴arpg游戏demo
+## 2022年制作的卷轴arpg游戏demo（全美术/音乐素材自制）
 ### exe包体见release
 - New InputSystem实现键鼠/手柄适配
 - 基于动画机与动画事件的攻击连段
