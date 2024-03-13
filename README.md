@@ -1,6 +1,7 @@
 # MekosTreasure
 ## 2022年制作的卷轴arpg游戏demo
 ### exe包体见release
+### 全美术/音乐素材自制
 - New InputSystem实现键鼠/手柄适配
 - 基于动画机与动画事件的攻击连段
 - 射线检测实现丝滑的2D斜坡移动
@@ -16,7 +17,6 @@
 - FSM有限状态机敌人AI
 - 场景事件
 - Dotween实现丝滑UI弹出弹入
-- 全美术/音乐素材自制
 ## 一览
 视频 -> [Bilibili](https://www.bilibili.com/video/BV1AT411K7vC)
 ![image1](https://s3.bmp.ovh/imgs/2024/03/03/02cd9ae35a1a144f.png)
