@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54142309ee13fe5449e71561b6f599e4, type: 3}
+  m_Name: FirstFelkoBeat
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: 01
+    image: {fileID: 21300000, guid: f548206caeaf7c64482ba956ec298530, type: 3}
+    speakerName: "\u83F2\u513F\u53EF"
+    text: "\u75DB\u75DB\u75DB\u75DB\uFF01"
+    isFromNpc: 1
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 02
+    image: {fileID: 21300000, guid: f548206caeaf7c64482ba956ec298530, type: 3}
+    speakerName: "\u83F2\u513F\u53EF"
+    text: "\u4F60\u53EF\u771F\u662F\u4E2A\u91CE\u732B\uFF01\u602A\u4E0D\u5F97\u957F\u7740\u4E24\u6761\u5C3E\u5DF4\uFF01"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 03
+    image: {fileID: 21300000, guid: f15fd7d78bf5679478b35ef1fb40d20b, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u4EC0\u4E48......\u4F60\u771F\u6CA1\u793C\u8C8C\uFF01"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 04
+    image: {fileID: 21300000, guid: f15fd7d78bf5679478b35ef1fb40d20b, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u660E\u660E\u662F\u4F60\u4E00\u8A00\u4E0D\u5408\u5C31\u6253\u6211\uFF0C\u90FD\u8BF4\u4E86\u6211\u4E0D\u662F\u732B\u53E3\u7EC4\u7684\u4EBA\u4E86\uFF01"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 05
+    image: {fileID: 21300000, guid: 891eed3dc5661f64a9f951440fce238f, type: 3}
+    speakerName: "\u83F2\u513F\u53EF"
+    text: "\u8FD8\u72E1\u8FA9......\u4E0D\u8FC7\uFF0C\u732B\u53E3\u7EC4\u7684\u5BB6\u4F19\u5E94\u8BE5\u4E0D\u4F1A\u5355\u72EC\u8DD1\u5230\u8FD9\u91CC\u627E\u62C9\u62C9\u83AB\u624D\u5BF9......"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 06
+    image: {fileID: 21300000, guid: e67d8241b32d37f458fd1e58af97ab92, type: 3}
+    speakerName: "\u83F2\u513F\u53EF"
+    text: "\u83AB\u975E......\u786E\u5B9E\u662F\u6211\u641E\u9519\u4E86\uFF1F\u8BF6\u563F\uFF01"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 07
+    image: {fileID: 21300000, guid: f15fd7d78bf5679478b35ef1fb40d20b, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u8BF6\u4F60\u4E2A\u5934\uFF01\u662F\u62C9\u62C9\u83AB\u8BA9\u6211\u627E\u5979\u7684\uFF0C\u6211\u5F97\u627E\u5230\u6211\u7684\u4E3B\u4EBA\uFF01"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 08
+    image: {fileID: 21300000, guid: 3a73de764a26f3a46b7fd38daf0afe9d, type: 3}
+    speakerName: "\u83F2\u513F\u53EF"
+    text: "\u55EF\u55EF......\u6211\u76F8\u4FE1\u4F60\u4E86\uFF0C\u624D\u4E0D\u662F\u56E0\u4E3A\u4F60\u6253\u4EBA\u592A\u75BC\u4E86\u54E6\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 09
+    image: {fileID: 21300000, guid: e67d8241b32d37f458fd1e58af97ab92, type: 3}
+    speakerName: "\u83F2\u513F\u53EF"
+    text: "\u4E0D\u8FC7\uFF0C\u4F60\u7684\u8EAB\u624B\u771F\u5389\u5BB3\u554A\uFF01"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 10
+    image: {fileID: 21300000, guid: e67d8241b32d37f458fd1e58af97ab92, type: 3}
+    speakerName: "\u83F2\u513F\u53EF"
+    text: "\u5982\u679C\u4F60\u60F3\u7684\u8BDD\uFF0C\u6B22\u8FCE\u627E\u6211\u518D\u6B21\u5207\u78CB\u54E6\u3002\u4E0D\u5BF9\uFF0C\u5E94\u8BE5\u662F\u6211\u60F3\u548C\u4F60\u518D\u591A\u5207\u78CB\u5207\u78CB......"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 11
+    image: {fileID: 21300000, guid: 3a73de764a26f3a46b7fd38daf0afe9d, type: 3}
+    speakerName: "\u83F2\u513F\u53EF"
+    text: "\u6211\u8EAB\u540E\u4E0D\u8FDC\u5C31\u662F\u5C24\u91CC\u9547\u7684\u540E\u65B9\u4E86\u3002\u8BF4\u8D77\u6765\uFF0C\u9547\u5B50\u6700\u8FD1\u5E76\u4E0D\u592A\u5E73......"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 12
+    image: {fileID: 21300000, guid: e67d8241b32d37f458fd1e58af97ab92, type: 3}
+    speakerName: "\u83F2\u513F\u53EF"
+    text: "\u4F60\u5FEB\u53BB\u5427\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 13
+    image: {fileID: 21300000, guid: d60f50ceddba69145bfdf5fb47c6fde4, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u53EF\u7B97\u662F\u8BA9\u6211\u8FC7\u53BB\u4E86......"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []

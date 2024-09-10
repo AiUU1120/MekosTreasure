@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54142309ee13fe5449e71561b6f599e4, type: 3}
+  m_Name: RakuArt
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: 01
+    image: {fileID: 21300000, guid: f15fd7d78bf5679478b35ef1fb40d20b, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u662F\u4E3B\u4EBA\u62C9\u5E93\u7684\u753B\u50CF\uFF0C\u4ECE\u8FD9\u4E2A\u89C6\u89D2\u770B\u771F\u662F\u7A00\u5947\u5462\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 02
+    image: {fileID: 21300000, guid: 9e44f0be117ce8b4a8a7a4da9bdc3ccf, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u4E5F\u4E0D\u77E5\u9053\u4E3B\u4EBA\u73B0\u5728\u5728\u54EA\u91CC\uFF0C\u771F\u5947\u602A\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []

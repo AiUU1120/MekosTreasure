@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e45caa9b2836534dac281aab49fc4e1, type: 3}
+  m_Name: Milk
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: "\u725B\u5976"
+  itemIcon: {fileID: 21300000, guid: dfa722c39363e164daf0880d2064564b, type: 3}
+  itemAmount: 1
+  stackable: 1
+  itemDescription: "\u732B\u4E0D\u80FD\u559D\u725B\u5976\uFF0C\u4F46\u732B\u5A18\u53EF\u4EE5\uFF01\u975E\u5E38\u7684\u5065\u5EB7\uFF0C\u975E\u5E38\u7684\u7F8E\u5473\uFF0C\u4F7F\u7528\u540E\u6C38\u4E45\u63D0\u5347\u5C11\u91CF\u751F\u547D\u503C\u4E0A\u9650\u3002"
+  foodData: {fileID: 11400000, guid: a72314197ab66a04086da0c60ba31c3e, type: 2}
+  keyData: {fileID: 0}
+  itemPrice: 1000

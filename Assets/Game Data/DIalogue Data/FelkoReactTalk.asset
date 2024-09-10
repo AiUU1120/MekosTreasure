@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54142309ee13fe5449e71561b6f599e4, type: 3}
+  m_Name: FelkoReactTalk
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: 01
+    image: {fileID: 21300000, guid: f548206caeaf7c64482ba956ec298530, type: 3}
+    speakerName: "\uFF1F\uFF1F\uFF1F"
+    text: "\u4F60\uFF01\u7AD9\u4F4F\uFF01\uFF01\uFF01"
+    isFromNpc: 1
+    isEndNpc: 0
+    eventType: 4
+    options: []
+  - ID: 02
+    image: {fileID: 21300000, guid: f548206caeaf7c64482ba956ec298530, type: 3}
+    speakerName: "\u83F2\u513F\u53EF"
+    text: "\u6211\u662F\u5C24\u91CC\u9547\u7684\u56ED\u4E01\u517C\u5B88\u62A4\u4EBA\u83F2\u513F\u53EF\uFF01\u53EF\u6076\u7684\u732B\u53E3\u7EC4\uFF0C\u522B\u60F3\u4ECE\u6211\u9762\u524D\u9003\u8D70\uFF01"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 03
+    image: {fileID: 21300000, guid: d60f50ceddba69145bfdf5fb47c6fde4, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u4EC0\u4E48......\u4E0D\u5BF9\uFF0C\u6211\u4E0D\u662F\u732B\u53E3\u7EC4\u7684......\u6211\u8981\u53BB\u5C24\u91CC\u9547\u627E\u62C9\u62C9\u83AB\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 04
+    image: {fileID: 21300000, guid: 891eed3dc5661f64a9f951440fce238f, type: 3}
+    speakerName: "\u83F2\u513F\u53EF"
+    text: "\u5C45\u7136\u8FDE\u62C9\u62C9\u83AB\u90FD\u77E5\u9053\uFF01\u8BE5\u6B7B\uFF0C\u96BE\u9053\u9547\u5B50\u91CC\u51FA\u4E86\u95F4\u8C0D......"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 05
+    image: {fileID: 21300000, guid: f548206caeaf7c64482ba956ec298530, type: 3}
+    speakerName: "\u83F2\u513F\u53EF"
+    text: "\u72E1\u733E\u7684\u732B\u53E3\u7EC4\uFF0C\u522B\u4EE5\u4E3A\u6211\u4F1A\u4E0A\u4F60\u7684\u5F53\uFF01\u8BA9\u4F60\u5C1D\u5C1D\u83F2\u513F\u53EF\u4E00\u9524\u793A\u73B0\u7406\u5FC3\u6D41\u7684\u5389\u5BB3\uFF01"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 06
+    image: {fileID: 21300000, guid: d60f50ceddba69145bfdf5fb47c6fde4, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u7B49\u7B49......\u4F60\u5012\u662F\u542C\u4EBA\u8BF4\u8BDD\u554A\uFF01"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []

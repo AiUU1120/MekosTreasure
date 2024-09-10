@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54142309ee13fe5449e71561b6f599e4, type: 3}
+  m_Name: RaramoStartTalk
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: 01
+    image: {fileID: 21300000, guid: 31c030e72d119854b9338f0fe8e8ae4c, type: 3}
+    speakerName: "\uFF1F\uFF1F\uFF1F"
+    text: "\u554A\uFF01"
+    isFromNpc: 1
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 02
+    image: {fileID: 21300000, guid: 31c030e72d119854b9338f0fe8e8ae4c, type: 3}
+    speakerName: "\uFF1F\uFF1F\uFF1F"
+    text: "\u4F60\u662F\u732B\u53E3\u7EC4\u7684\uFF01\uFF1F\u4E0D\u8981\u8FC7\u6765\uFF01\uFF01"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 03
+    image: {fileID: 21300000, guid: 9e44f0be117ce8b4a8a7a4da9bdc3ccf, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u732B......\u4EC0\u4E48\u7EC4\uFF1F"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 04
+    image: {fileID: 21300000, guid: f15fd7d78bf5679478b35ef1fb40d20b, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u6211\u53EB\u8393\u53EF\uFF0C\u662F\u4E00\u53EA\u732B\u3002\u4F46\u4E0D\u77E5\u9053\u4E3A\u4EC0\u4E48\uFF0C\u6211\u53D8\u6210\u4E86\u4EBA\u7C7B\u7684\u6837\u5B50\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 05
+    image: {fileID: 21300000, guid: 456b97f995c83e14a9ffec3154b7944a, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u6211\u6B63\u5728\u5BFB\u627E\u6211\u7684\u4E3B\u4EBA\u3002\u8BF7\u95EE\u5230\u5E95\u53D1\u751F\u4EC0\u4E48\u4E8B\u4E86\uFF1F"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 06
+    image: {fileID: 21300000, guid: 31c030e72d119854b9338f0fe8e8ae4c, type: 3}
+    speakerName: "\uFF1F\uFF1F\uFF1F"
+    text: "\u4EC0\u4E48\uFF1F\u4E3B\u4EBA......\u4F60\u4E0D\u662F......"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 07
+    image: {fileID: 21300000, guid: 0a4fae73eddb88d4391574ecbe9b2ad1, type: 3}
+    speakerName: "\uFF1F\uFF1F\uFF1F"
+    text: "......\u597D\u5427\uFF0C\u4F60\u770B\u8D77\u6765\u786E\u5B9E\u548C\u90A3\u4E9B\u75AF\u5B50\u4E0D\u592A\u4E00\u6837\u3002\u81F3\u5C11\u4F60\u8FD8\u5728\u610F\u4F60\u7684\u4E3B\u4EBA\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 08
+    image: {fileID: 21300000, guid: 31c030e72d119854b9338f0fe8e8ae4c, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u6211\u662F\u62C9\u62C9\u83AB\u3002\u90A3\u7FA4\u732B\u53E3\u7EC4\u7684\u75AF\u5B50\u771F\u662F\u8BA9\u6211\u53D7\u4E86\u597D\u5927\u7684\u82E6......"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 09
+    image: {fileID: 21300000, guid: 81860235c00a63a4fa9dd597ffe7bba5, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u65E2\u7136\u4F60\u662F\u521A\u53D7\u201C\u90A3\u4E2A\u201D\u5F71\u54CD\u4E0D\u4E45\uFF0C\u90A3\u4F60\u5E94\u8BE5\u8FD8\u5BF9\u4EBA\u7C7B\u7684\u8EAB\u4F53\u4E0D\u591F\u719F\u6089\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 10
+    image: {fileID: 21300000, guid: 78bb50e3fd4414446a9192ad76c2d271, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u6211\u6765\u544A\u8BC9\u4F60\u4E00\u4E9B\u4EBA\u7C7B\u8EAB\u4F53\u7684\u57FA\u672C\u6280\u5DE7\u5427\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 11
+    image: {fileID: 21300000, guid: 78bb50e3fd4414446a9192ad76c2d271, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u6309\u9F20\u6807\u53F3\u952E/\u952E\u76D8J\u952E/\u624B\u67C4X\u952E\u53EF\u4EE5\u8FDB\u884C\u666E\u901A\u653B\u51FB\u3002\u952E\u76D8SPACE\u952E/\u624B\u67C4A\u952E\u53EF\u4EE5\u8DF3\u8DC3\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 12
+    image: {fileID: 21300000, guid: 81860235c00a63a4fa9dd597ffe7bba5, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u6309\u952E\u76D8TAB\u952E/\u624B\u67C4BACK\u952E\u6253\u5F00\u80CC\u5305\u3002\u952E\u76D8ESC\u952E/\u624B\u67C4START\u952E\u6253\u5F00\u6682\u505C\u83DC\u5355\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 13
+    image: {fileID: 21300000, guid: 78bb50e3fd4414446a9192ad76c2d271, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u5728\u5FEB\u6377\u680F\u88C5\u5907\u6709\u7269\u54C1\u7684\u65F6\u5019\uFF0C\u6309\u952E\u76D8R\u952E/\u624B\u67C4\u5341\u5B57\u4E0B\u952E\u53EF\u4EE5\u5FEB\u901F\u4F7F\u7528\u7269\u54C1\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 14
+    image: {fileID: 21300000, guid: 0a4fae73eddb88d4391574ecbe9b2ad1, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u597D\u4E86\u3002\u8BB0\u4F4F\u8FD9\u4E9B\uFF0C\u5E94\u8BE5\u4F1A\u5BF9\u4F60\u5FEB\u901F\u9002\u5E94\u8EAB\u4F53\u6709\u6240\u5E2E\u52A9\u3002\u8BF4\u8D77\u6765\uFF0C\u4F60\u6709\u4E24\u6761\u5C3E\u5DF4......\u96BE\u9053\u662F......"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 15
+    image: {fileID: 21300000, guid: d60f50ceddba69145bfdf5fb47c6fde4, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u7B49\u7B49......\u4FE1\u606F\u91CF\u592A\u5927\u4E86......\u732B\u53E3\u7EC4\u662F\u4EC0\u4E48\uFF1F\u201C\u90A3\u4E2A\u201D\u53C8\u662F\u4EC0\u4E48\uFF1F"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 16
+    image: {fileID: 21300000, guid: 78bb50e3fd4414446a9192ad76c2d271, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u5173\u4E8E\u4E8B\u60C5\u7684\u8BE6\u60C5\uFF0C\u4F60\u5230\u5C24\u91CC\u9547\u53BB\u627E\u6211\u5427\u3002\u5230\u4E86\u90A3\u91CC\uFF0C\u6211\u518D\u8BE6\u7EC6\u548C\u4F60\u8BF4\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 17
+    image: {fileID: 21300000, guid: 81860235c00a63a4fa9dd597ffe7bba5, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u8EAB\u4F53\u7684\u64CD\u4F5C\u6280\u5DE7\u5982\u679C\u4F60\u5FD8\u4E86\uFF0C\u53EF\u4EE5\u518D\u6765\u95EE\u6211\uFF0C\u6211\u4F1A\u5728\u8FD9\u518D\u5F85\u4E00\u4F1A\u3002\u5176\u4ED6\u7684\u4E8B\u6211\u5C31\u4E0D\u518D\u591A\u8BF4\u4E86\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 18
+    image: {fileID: 21300000, guid: 9e44f0be117ce8b4a8a7a4da9bdc3ccf, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u554A......"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []

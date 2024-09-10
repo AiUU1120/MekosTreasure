@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e45caa9b2836534dac281aab49fc4e1, type: 3}
+  m_Name: CatMint
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: "\u732B\u8584\u8377"
+  itemIcon: {fileID: 21300000, guid: ac3d0f760a8c5c5498ac7291860e67c2, type: 3}
+  itemAmount: 1
+  stackable: 1
+  itemDescription: "\u8BA9\u732B\u79D1\u52A8\u7269\u766B\u72C2\u7684\u795E\u5947\u836F\u8349\uFF0C\u98DF\u7528\u540E\u6062\u590D\u5168\u90E8\u751F\u547D\u503C\uFF0C\u4F46\u4F1A\u6C38\u4E45\u964D\u4F4E\u5FAE\u91CF\u751F\u547D\u503C\u4E0A\u9650\u3002"
+  foodData: {fileID: 11400000, guid: ff849f65016c5484ab1223e64446422a, type: 2}
+  keyData: {fileID: 0}
+  itemPrice: 50

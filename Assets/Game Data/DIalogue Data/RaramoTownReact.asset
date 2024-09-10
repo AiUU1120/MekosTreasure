@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54142309ee13fe5449e71561b6f599e4, type: 3}
+  m_Name: RaramoTownReact
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: 01
+    image: {fileID: 21300000, guid: 78bb50e3fd4414446a9192ad76c2d271, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u554A\uFF01\u4F60\u6765\u4E86\uFF01"
+    isFromNpc: 1
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 02
+    image: {fileID: 21300000, guid: 81860235c00a63a4fa9dd597ffe7bba5, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u4E00\u8DEF\u4E0A\u4E00\u5B9A\u8F9B\u82E6\u4E86\u5427\uFF01"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 03
+    image: {fileID: 21300000, guid: d60f50ceddba69145bfdf5fb47c6fde4, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u5F53\u7136\u5E78\u82E6\u4E86\uFF0C\u4E00\u8DEF\u4E0A\u5168\u662F\u9B54\u7269\u548C\u732B\u53E3\u7EC4\u7684\u6210\u5458\uFF0C\u8FD8\u6709\u4E00\u4E2A\u4F60\u4EEC\u9547\u5B50\u4E0A\u7684\u5973\u5B69\u5B50\u8981\u6253\u6211\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 04
+    image: {fileID: 21300000, guid: 9e44f0be117ce8b4a8a7a4da9bdc3ccf, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u6BD4\u8D77\u8FD9\u4E9B\uFF0C\u8BE5\u548C\u6211\u8BE6\u7EC6\u8BF4\u8BF4\u53D1\u751F\u7684\u4E8B\u60C5\u4E86\u5427\uFF1F"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 05
+    image: {fileID: 21300000, guid: 31c030e72d119854b9338f0fe8e8ae4c, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u4EC0\u4E48......\u96BE\u9053\u662F\u83F2\u513F\u53EF\u90A3\u5B69\u5B50......"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 06
+    image: {fileID: 21300000, guid: 0a4fae73eddb88d4391574ecbe9b2ad1, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u597D\u5566\uFF0C\u6211\u662F\u77E5\u9053\u4F60\u5F88\u62C5\u5FC3\u4F60\u4E3B\u4EBA\u3002\u4F46\u5176\u5B9E\u60C5\u51B5\u6709\u4E9B\u590D\u6742\uFF0C\u800C\u4E14\u4E5F\u4E0D\u662F\u7279\u522B\u4E50\u89C2......"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 07
+    image: {fileID: 21300000, guid: 0a4fae73eddb88d4391574ecbe9b2ad1, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u8FD9\u91CC\u662F\u5C24\u91CC\u9547\u7684\u540E\u65B9......\u9547\u5B50\u524D\u4E0D\u4E45\u88AB\u732B\u53E3\u7EC4\u7684\u4EBA\u88AD\u51FB\u4E86\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 08
+    image: {fileID: 21300000, guid: 0a4fae73eddb88d4391574ecbe9b2ad1, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u73B0\u5728\u6709\u4E9B\u6DF7\u4E71\uFF0C\u4E00\u65F6\u534A\u4F1A\u4E5F\u8BF4\u4E0D\u6E05\u695A\u3002\u7B49\u5230\u89C1\u5230\u4E86\u4F60\u5C31\u90FD\u660E\u767D\u4E86\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 09
+    image: {fileID: 21300000, guid: 78bb50e3fd4414446a9192ad76c2d271, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u4E0D\u7BA1\u600E\u6837\uFF0C\u4F60\u60F3\u8981\u7684\u771F\u76F8\u5F88\u5FEB\u5C31\u4F1A\u6D6E\u51FA\u6C34\u9762\u7684\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 10
+    image: {fileID: 21300000, guid: 81860235c00a63a4fa9dd597ffe7bba5, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u5148\u7A0D\u4F5C\u4F11\u6574\uFF0C\u6211\u518D\u5E26\u4F60\u53BB\u5C24\u91CC\u9547\u770B\u770B\u5427\uFF01"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 11
+    image: {fileID: 21300000, guid: 456b97f995c83e14a9ffec3154b7944a, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u597D\u5427\uFF0C\u6211\u4E5F\u786E\u5B9E\u5E94\u8BE5\u4F11\u606F\u4E00\u4E0B\u4E86\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 12
+    image: {fileID: 21300000, guid: f15fd7d78bf5679478b35ef1fb40d20b, type: 3}
+    speakerName: "\u8393\u53EF"
+    text: "\u6211\u4E00\u5B9A\u4F1A\u627E\u5230\u4E3B\u4EBA\u7684\uFF01"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 13
+    image: {fileID: 21300000, guid: 81860235c00a63a4fa9dd597ffe7bba5, type: 3}
+    speakerName: "\u62C9\u62C9\u83AB"
+    text: "\u55EF\uFF01\u4F60\u4E00\u5B9A\u4F1A\u7684\uFF01"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 14
+    image: {fileID: 0}
+    speakerName: "\u4F5C\u8005"
+    text: "\u4F60\u597D\uFF01\u6211\u662F\u4F5C\u8005AiUU\u3002\u606D\u559C\u4F60\u5DF2\u7ECF\u5B8C\u6210\u4E86\u300A\u8393\u53EF\u7684\u5B9D\u85CF(Meko's
+      Treasure)\u300B\u7684\u5168\u90E8\u5185\u5BB9\uFF01"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 15
+    image: {fileID: 0}
+    speakerName: "\u4F5C\u8005"
+    text: "\u611F\u8C22\u4F60\u7684\u6E38\u73A9\uFF01\u4F5C\u8005\u662F\u521A\u63A5\u89E6\u6E38\u620F\u5F00\u53D1\u4E0D\u4E45\u7684\u65B0\u624B\uFF0C\u5236\u4F5C\u7C97\u7CD9\uFF0C\u611F\u8C22\u4F60\u80FD\u575A\u6301\u5230\u8FD9\u91CC\u3002"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 16
+    image: {fileID: 0}
+    speakerName: "\u4F5C\u8005"
+    text: "\u4F5C\u4E3A\u5B66\u4E60\uFF0C\u8FD9\u4E2A\u4F5C\u54C1\u53EF\u80FD\u8FD8\u4F1A\u7EE7\u7EED\u5236\u4F5C\u66F4\u65B0\u4E0B\u53BB\u3002\u611F\u5174\u8DA3\u7684\u8BDD\u4E5F\u6B22\u8FCE\u52A0\u4F5C\u8005QQ\u4EA4\u6D41\uFF01"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []
+  - ID: 17
+    image: {fileID: 0}
+    speakerName: "\u4F5C\u8005"
+    text: "\u518D\u6B21\u611F\u8C22\u4F60\u7684\u6E38\u73A9\uFF01"
+    isFromNpc: 0
+    isEndNpc: 0
+    eventType: 0
+    options: []

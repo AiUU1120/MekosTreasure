@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PlayerAttacked
+  - EnemyCollision
+  - Boss
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Ground
+  - PlatForm
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PlayerAttacked
+  - EnemyCollision
+  - EnemyBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 1787614083
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MapPlatBack
+    uniqueID: 2066843425
+    locked: 0
+  - name: PlantsBack
+    uniqueID: 2104140905
+    locked: 0
+  - name: MapCollision
+    uniqueID: 700589893
+    locked: 0
+  - name: MapObject
+    uniqueID: 2540951799
+    locked: 0
+  - name: Enemies
+    uniqueID: 3696168731
+    locked: 0
+  - name: Npc
+    uniqueID: 3201174215
+    locked: 0
+  - name: Boss
+    uniqueID: 2775984019
+    locked: 0
+  - name: Player
+    uniqueID: 390881533
+    locked: 0
+  - name: PlantsFront
+    uniqueID: 1779435267
+    locked: 0
+  - name: Bullet
+    uniqueID: 2478103959
+    locked: 0
+  - name: FrontLeaves
+    uniqueID: 1229183809
+    locked: 0
+  - name: MapFront
+    uniqueID: 3831704757
+    locked: 0
+  - name: UI
+    uniqueID: 1043839683
+    locked: 0
